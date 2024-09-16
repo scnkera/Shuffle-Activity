@@ -18,6 +18,3 @@ def shuffle_deck(deck_of_cards):
     print(card_list)
 
 shuffle_deck(deck_of_cards)
-# shuffle_deck(deck_of_cards)
-# shuffle_deck(deck_of_cards)
-# shuffle_deck(deck_of_cards)
